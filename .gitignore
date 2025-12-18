@@ -1,0 +1,17 @@
+.# Folder dependencies (wajib di-ignore karena berat)
+node_modules/
+venv/
+__pycache__/
+
+# File Environment (PENTING: isinya password/API Key)
+.env
+.env.local
+
+# File System
+.DS_Store
+Thumbs.db
+
+# Build output
+.next/
+dist/
+build/
